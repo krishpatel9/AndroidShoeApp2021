@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoboticsProgram</string>
+    <string name="status">Status:</string>
+    <string name="all_good_status">All Good!</string>
+    <string name="bad_status">Bad</string>
+    <string name="ok_status">OK</string>
+    <string name="view_my_history">View my history</string>
+    <string name="leftStr">Left</string>
+</resources>
